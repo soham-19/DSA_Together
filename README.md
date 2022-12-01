@@ -2,7 +2,7 @@
 
 Name : SOHAM KULKARNI
 Despription : SE Student, Comp Eng.
-              Exploring DSA and WEB DEVE. paths currently !!
+              Exploring DSA and WEB DEV. paths currently !!
               
               
 Let's learn DSA to develope Programming Logic.
